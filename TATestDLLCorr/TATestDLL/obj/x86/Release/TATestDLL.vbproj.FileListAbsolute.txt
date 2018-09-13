@@ -1,0 +1,14 @@
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\bin\Release\TATestDLL.exe
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\bin\Release\TATestDLL.pdb
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\bin\Release\TASystem.dll
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\obj\x86\Release\TATestDLL.vbprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\obj\x86\Release\TATestDLL.frmChartNew.resources
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\obj\x86\Release\TATestDLL.frmBirthData.resources
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\obj\x86\Release\TATestDLL.frmLocation.resources
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\obj\x86\Release\TATestDLL.frmMain.resources
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\obj\x86\Release\TATestDLL.frmTest.resources
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\obj\x86\Release\TATestDLL.frmTransitChart.resources
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\obj\x86\Release\TATestDLL.Resources.resources
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\obj\x86\Release\TATestDLL.vbproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\obj\x86\Release\TATestDLL.exe
+C:\Users\Developer\Desktop\TATestDLLCorr\TATestDLL\obj\x86\Release\TATestDLL.pdb
